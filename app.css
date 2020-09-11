@@ -16,6 +16,12 @@ body {
     height: 80%;
 }
 
+.container{
+    margin: auto;
+    padding: lem;
+    width: 80%;
+}
+
 .destination-container {
     display: flex;
     flex-flow: wrap;
